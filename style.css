@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+}
+h2{
+    background-color: grey;   
+}
+
+.html5{
+    width: 150px;
+    height: 150px;
+    float: left;
+    padding-right: 10px;
+    margin-left: 100px;
+}
+
+.css3{
+    width: 150px;
+    height: 150px;
+    float: left;
+    padding-right: 10px;
+    margin-left: 100px;
+}
+
+p{
+    margin-left: 100px;
+}
